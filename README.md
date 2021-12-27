@@ -1,5 +1,6 @@
 # FitnesSkopje 
 ###### Web application for finding fitness centres in the heart of Macedonia
+##### Go to the website: https://fitnesskopje.azurewebsites.net
 
 ## Short Description of the Project
 The purpose of this web application is to encourage all fitness newbies and gym enthusiasts to find the perfect workout space suitable for them in just a few clicks. This web application contains all of the fitness centers available in Skopje, as well as information about each business. 
